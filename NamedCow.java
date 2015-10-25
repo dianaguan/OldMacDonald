@@ -1,6 +1,6 @@
 class NamedCow extends Cow
 {
-	 private String myName;     
+	 protected String myName;     
   
      public NamedCow(String name)     {         
          myName = name;           
